@@ -1,0 +1,11 @@
+C:\Users\denys.kurhanskyi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Release\WindowsFormsApp1.exe.config
+C:\Users\denys.kurhanskyi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Release\WindowsFormsApp1.exe
+C:\Users\denys.kurhanskyi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Release\WindowsFormsApp1.pdb
+C:\Users\denys.kurhanskyi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\Kursovaya.csproj.AssemblyReference.cache
+C:\Users\denys.kurhanskyi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\Kursovaya.csproj.SuggestedBindingRedirects.cache
+C:\Users\denys.kurhanskyi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+C:\Users\denys.kurhanskyi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\denys.kurhanskyi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\Kursovaya.csproj.GenerateResource.cache
+C:\Users\denys.kurhanskyi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\Kursovaya.csproj.CoreCompileInputs.cache
+C:\Users\denys.kurhanskyi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+C:\Users\denys.kurhanskyi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
